@@ -1,0 +1,11 @@
+add reload mechanism
+
+add shield mechanic
+
+add enemy hitting player logic
+bullet colliding with objects (trees, rocks, etc)
+
+
+display stamina and health bar
+add an image of cross hairs to mouse position
+    edit the images for the above 2 operations
